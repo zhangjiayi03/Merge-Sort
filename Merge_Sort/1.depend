@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512481676 source:d:\codeblocks\mingw\code\1\main.cpp
+	<iostream>
+	<cstdlib>
+
+1512482438 source:d:\codeblocks\mingw\code\1\main.c
+	<stdio.h>
+	<stdlib.h>
+
